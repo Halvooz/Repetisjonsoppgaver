@@ -1,0 +1,26 @@
+body {
+    background-color: blue;
+}
+
+h1 {
+    color: red;
+}
+
+.boks {
+    margin: 0 auto; /* Putter boksen i midten av "skjermen" */
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    color: black;
+    border-style: solid; 
+    border-color: black; 
+    border-radius: 10px; /* Avrundede hjørner */
+    padding: 20px;
+    /*Lag en midtstilt boks på 500x500 piksler. Hvit bakgrunnsfarge. 
+    Svart tekst. Svart kantlinje. Avstand mellom kantlinjer og innhold inne i boksen på 20 piksler. 
+    Plasser de forrige punktene (navn, bilde, tekst) inn i boksen du har laget.*/
+}
+
+#btnChangeColor {
+    margin: 0 auto;
+}
